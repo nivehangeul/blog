@@ -18,3 +18,4 @@ fi
 git add .
 git commit -m "Rebuild site"
 git push --force origin HEAD:master
+
