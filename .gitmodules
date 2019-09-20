@@ -1,0 +1,5 @@
+[submodule "themes/AllinOne"]
+	url = https://github.com/orianna-zzo/AllinOne.git
+[submodule "public"]
+	path = public
+	url = https://github.com/nivehangeul/nivehangeul.github.io.git
