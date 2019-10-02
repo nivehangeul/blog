@@ -12,3 +12,4 @@ toc: true
 
 This is my first blog post. tadda..!!
 trying to add auto deploy and testing it
+now i am trying to preserve the changes made through git commits
